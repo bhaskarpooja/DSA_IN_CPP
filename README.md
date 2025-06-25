@@ -8,6 +8,12 @@ It also includes problems I’ve solved from platforms like **LeetCode** and **G
 
 ## 📂 Contents of the Repository
 
+### Basics
+- [x] Maths
+- [x] Patterns
+
+---
+
 ###  Data Structures
 
 - [x] Arrays  
